@@ -945,7 +945,7 @@ export default function App() {
         <div ref={loadingRef} className="loading-screen">
           <div className="loading-content">
             <h1 className="loading-title">INITIALIZING COSMOS...</h1>
-            <p className="loading-subtitle">正在初始化宇宙...</p>
+            <p className="loading-subtitle">迷谳科技初始化...</p>
             <div className="loading-bar-container">
               <div className="loading-bar" />
             </div>
@@ -957,10 +957,10 @@ export default function App() {
       {!loading && (
         <div className="title-area">
           <h1 className="main-title">
-            <span className="title-char">太</span>
-            <span className="title-char">阳</span>
-            <span className="title-char">系</span>
-            <span className="title-char">与</span>
+            <span className="title-char">迷</span>
+            <span className="title-char">谳</span>
+            <span className="title-char">科</span>
+            <span className="title-char">技</span>
             <span className="title-char">深</span>
             <span className="title-char">空</span>
             <span className="title-char">探</span>
